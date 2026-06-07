@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "iron-to-emerald-addon",
+  "version": "1.0.0",
+  "name": "Iron to Emerald Addon",
+  "description": "自动用铁锭和铁匠村民换取绿宝石",
+  "authors": ["YourName"],
+  "license": "MIT",
+  "environment": "client",
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": ">=1.21",
+    "meteor-client": "*"
+  }
+}
